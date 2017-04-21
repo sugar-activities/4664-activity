@@ -1,0 +1,6 @@
+[Activity]
+name = VNC Server
+activity_version = 3
+bundle_id = org.somosazucar.ServidorVNC
+exec = sugar-activity vnclauncher.VncLauncherActivity
+icon = activity-vnclauncher
